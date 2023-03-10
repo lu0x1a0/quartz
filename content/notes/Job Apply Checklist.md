@@ -93,7 +93,7 @@ this is the same website but [more filtered link | GradAustralia](https://gradau
 	- (firm::NSWDigital)
 - [x] JohnHolland  1 jul ✅ 2023-03-08 📅 2023-03-29
 	- (firm::JohnHolland)
-	- [ ] Online Assessment + Video 📅 2023-03-12 
+	- [x] Online Assessment + Video ✅ 2023-03-10
 - [ ] westpac  18 jul
 	- (firm::westpac)
 - [ ] stockland  18 jul

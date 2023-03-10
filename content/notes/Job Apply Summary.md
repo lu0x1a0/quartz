@@ -44,7 +44,7 @@ TABLE without ID
 		filter(tasks.children, (child)=>(child.task)),
 		(subtask) => (subtask.text) 
 	) as Stages
-FROM "Job Search/Job Apply Checklist" FLATTEN file.tasks as tasks
+FROM "quartz/content/notes/Job Apply Checklist" FLATTEN file.tasks as tasks
 WHERE !tasks.parent 
 SORT map(
 		filter(tasks.children, (child)=>(child.task)),
