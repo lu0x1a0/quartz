@@ -1,4 +1,11 @@
-
+---
+title: "Grad Application Summary"
+tags:
+- gradapp
+weight: -1
+aliases:
+- gradappsum
+---
 
 
 # How many checked

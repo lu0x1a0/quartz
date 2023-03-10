@@ -1,4 +1,13 @@
-	
+---
+title: "Grad Application List"
+tags:
+- gradapp
+weight: -1
+aliases:
+- gradappls
+---
+
+
 # Upcoming Tasks
 
 ---
