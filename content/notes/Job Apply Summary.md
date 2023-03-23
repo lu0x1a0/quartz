@@ -1,10 +1,9 @@
-
 ## Templater Injection (DEBUG powershell)
 
 | Firm                         | Program | Applied Date | Salary Estimate | Package Estimate | LastTaskCompleted | Stages                                                                                                                                                                     |
 | ---------------------------- | ------- | ------------ | --------------- | ---------------- | ----------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Woolworth                    | \-      | 23-02-25     | \-              | \-               | March 21, 2023    | <ul><li>criteria online assessment 📅 2023-03-28 ✅ 2023-03-21</li></ul>                                                                                                    |
-| rba                          | \-      | \-           | \-              | \-               | \-                | <ul><li>SHL test 📅 2023-03-13</li></ul>                                                                                                                                   |
+| rba                          | \-      | \-           | \-              | \-               | \-                | <ul><li>SHL test 📅 2023-03-13</li><li>dead bcos didnt do SHL</li></ul>                                                                                                    |
 | IAG                          | \-      | 23-02-20     | \-              | \-               | February 20, 2023 | <ul><li>korn ferry ✅ 2023-02-20</li><li>information session 📅 2023-03-24</li><li>engagement day 📅 2023-03-27</li></ul>                                                   |
 | CommBank                     | \-      | 23-03-22     | 80k             | \-               | March 23, 2023    | <ul><li>online assessment ✅ 2023-03-23</li><li>hirevue digital interview ✅ 2023-03-23</li></ul>                                                                            |
 | TPGTelecom                   | \-      | 23-02-14     | \-              | \-               | March 21, 2023    | <ul><li>online assessment  ✅ 2023-02-14</li><li>livehire auto video interview due  ✅ 2023-03-21</li></ul>                                                                  |
