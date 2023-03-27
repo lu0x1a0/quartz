@@ -1,11 +1,17 @@
-
 ## Templater Injection (DEBUG powershell)
+
+## Aggregate Stats
+
+| Tasks | Total | Applied |
+| ----- | ----- | ------- |
+| \-    | 68    | 35      |
+## Status Table
 
 | Firm                         | Program | Applied Date | Salary Estimate | Package Estimate | LastTaskCompleted | Stages                                                                                                                                                                     |
 | ---------------------------- | ------- | ------------ | --------------- | ---------------- | ----------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| nab                          | \-      | 23-02-25     | 72k             | \-               | \-                | <ul><li>complete online psychometric 📅 2023-04-05</li></ul>                                                                                                               |
+| nab                          | \-      | 23-02-25     | 72k             | \-               | \-                | <ul><li>complete online psychometric (sovaassessment) 📅 2023-04-05</li></ul>                                                                                              |
+| REA group                    | \-      | 23-03-23     | \-              | \-               | March 27, 2023    | <ul><li>online assessment (The predictive index) 📅 2023-03-28 ✅ 2023-03-27</li></ul>                                                                                      |
 | Woolworth                    | \-      | 23-02-25     | \-              | \-               | March 21, 2023    | <ul><li>criteria online assessment 📅 2023-03-28 ✅ 2023-03-21</li></ul>                                                                                                    |
-| REA group                    | \-      | 23-03-23     | \-              | \-               | \-                | <ul><li>online assessment 📅 2023-03-28</li></ul>                                                                                                                          |
 | rba                          | \-      | \-           | \-              | \-               | \-                | <ul><li>SHL test 📅 2023-03-13</li><li>dead bcos didnt do SHL</li></ul>                                                                                                    |
 | IAG                          | \-      | 23-02-20     | \-              | \-               | March 24, 2023    | <ul><li>korn ferry ✅ 2023-02-20</li><li>information session 📅 2023-03-24 ✅ 2023-03-24</li><li>engagement day 🛫  2023-03-27 📅 2023-04-04</li></ul>                       |
 | CommBank                     | \-      | 23-03-22     | 80k             | \-               | March 23, 2023    | <ul><li>online assessment ✅ 2023-03-23</li><li>hirevue digital interview ✅ 2023-03-23</li></ul>                                                                            |
@@ -70,3 +76,4 @@
 | honeywell                    | \-      | 23-03-10     | 79k             | \-               | \-                | <ul></ul>                                                                                                                                                                  |
 | mastercard                   | \-      | 23-03-10     | 75k             | \-               | \-                | <ul></ul>                                                                                                                                                                  |
 | IBM                          | \-      | 23-03-23     | 75k             | 80k              | \-                | <ul></ul>                                                                                                                                                                  |
+| ResMed                       | \-      | 23-03-27     | \-              | \-               | \-                | <ul></ul>                                                                                                                                                                  |
