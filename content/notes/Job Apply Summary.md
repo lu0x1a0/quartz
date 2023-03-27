@@ -1,10 +1,11 @@
+
 ## Templater Injection (DEBUG powershell)
 
 ## Aggregate Stats
 
-| Tasks | Total | Applied |
-| ----- | ----- | ------- |
-| \-    | 68    | 35      |
+| Tasks | Total | Applied | Dead Estimate |
+| ----- | ----- | ------- | ------------- |
+| \-    | 68    | 35      | 4             |
 ## Status Table
 
 | Firm                         | Program | Applied Date | Salary Estimate | Package Estimate | LastTaskCompleted | Stages                                                                                                                                                                     |
